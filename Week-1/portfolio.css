@@ -1,0 +1,13 @@
+*{
+    background-color: lightblue;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+h1{
+    text-align: center;
+    /* font-style: italic; */
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: underline;
+}
